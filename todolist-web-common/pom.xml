@@ -63,5 +63,13 @@
             <version>4.3.1.Final</version>
         </dependency>
 
+        <!-- https://mvnrepository.com/artifact/eu.hinsch/spring-boot-actuator-logview -->
+        <!-- https://security.snyk.io/vuln/CVE-2021-21234 -->
+        <dependency>
+            <groupId>eu.hinsch</groupId>
+            <artifactId>spring-boot-actuator-logview</artifactId>
+            <version>0.2.12</version>
+        </dependency>
+
     </dependencies>
 </project>
