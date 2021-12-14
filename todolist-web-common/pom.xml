@@ -80,14 +80,5 @@
             <version>2.10.1</version>
         </dependency>
 
-
-        <!-- https://mvnrepository.com/artifact/log4j/log4j -->
-        <!-- https://security.snyk.io/vuln/SNYK-JAVA-LOG4J-2316893 -->
-        <dependency>
-            <groupId>org.apache.logging.log4j</groupId>
-            <artifactId>log4j-core</artifactId>
-            <version>1.2.0</version>
-        </dependency>
-
     </dependencies>
 </project>
